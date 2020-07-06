@@ -1,4 +1,5 @@
 //Visual Studio 2015 Community Edition ile olusturulmustur.
+//Basit olarak dizeler icin encrypt ve decrypt islemi yapmaktadir.
 
 #include "stdafx.h"
 #include "iostream"
